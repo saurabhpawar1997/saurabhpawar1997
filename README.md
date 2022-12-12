@@ -1,5 +1,5 @@
 
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=007FFF&lines=Full+Stack+Developer+%3A)" /></h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=007FFF&lines=Aspiring+Full+Stack+Developer+%3A)" /></h3>
 <hr/>
 
 <div align="center">
