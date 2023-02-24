@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, Typescript, MongoDB, ExpressJS**
 
-- 💬 Ask me about ** Javascript, ReactJS, Redux, NodeJS.**
+- 💬 Ask me about **Javascript, ReactJS, Redux, NodeJS**.
 
 - 📫 How to reach me **saurabhpawarrrr@gmail.com**
 
