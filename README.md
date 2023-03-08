@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhpawar1997&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhpawar1997" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Typescript, MongoDB, ExpressJS**
+- 🌱 I’m currently learning **NodeJS, MongoDB, ExpressJS**
 
-- 💬 Ask me about **Javascript, ReactJS, Redux, NodeJS**.
+- 💬 Ask me about **Javascript, ReactJS, Redux, Typescript**.
 
 - 📫 How to reach me **saurabhpawarrrr@gmail.com**
 
