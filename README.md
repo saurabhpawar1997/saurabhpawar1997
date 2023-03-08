@@ -40,7 +40,7 @@
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
-    <img alt="saurabhpawar1997's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&hide_border=true&theme=github_dark" />
+    <img alt="saurabhpawar1997's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&theme=github_dark" />
   </a>
 </details>
 
@@ -49,6 +49,6 @@
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
-    <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=github_dark" />
+    <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&theme=github_dark" />
   </a>
 </details>
