@@ -35,7 +35,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar1997&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br />
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar1997&theme=github_dark" alt="saurabhpawar1997" /></p>  -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar1997&theme=github_dark&hide_border=true&text_color=c9d1d9" alt="saurabhpawar1997" /></p> 
 
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
@@ -53,3 +53,4 @@
     <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&theme=github_dark" />
   </a>
 </details>
+
