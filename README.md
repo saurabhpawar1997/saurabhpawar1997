@@ -35,22 +35,21 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhpawar1997&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar1997&theme=github_dark&hide_border=true&text_color=c9d1d9" alt="saurabhpawar1997" /></p> 
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhpawar1997&theme=github_dark&hide_border=true&text_color=c9d1d9" alt="saurabhpawar1997" /></p>  -->
 
 <details>
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
-    <img alt="saurabhpawar1997's Activity Graph last year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&theme=github_dark" />
+    <img width="150%" height="200px" alt="saurabhpawar1997's Activity Graph last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&theme=2077&hide_border=true" />
   </a>
 </details>
-
 
 <details open>
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
-    <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&theme=github_dark" />
+    <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&theme=github_dark&hide_border=true" />
   </a>
 </details>
 
