@@ -41,7 +41,7 @@
   <summary><b>📊&nbsp;&nbsp;Activity in this year</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
-    <img width="150%" height="200px" alt="saurabhpawar1997's Activity Graph last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&theme=2077&hide_border=true" />
+    <img width="150%" height="200px" alt="saurabhpawar1997's Activity Graph last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhpawar1997&theme=github_dark&hide_border=true" />
   </a>
 </details>
 
