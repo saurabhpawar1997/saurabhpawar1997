@@ -45,11 +45,11 @@
   </a>
 </details>
 
-<details open>
+<!-- <details open>
   <summary><b>📊&nbsp;&nbsp;Activity in the month</b></summary>
   <br />
   <a href="https://github.com/saurabhpawar1997">
     <img alt="saurabhpawar1997's Activity Graph last month" src="https://github-readme-activity-graph.cyclic.app/graph/?username=saurabhpawar1997&bg_color=0d1117&color=F8D866&line=F85D7F&point=FFFFFF&theme=github_dark&hide_border=true" />
   </a>
-</details>
+</details> -->
 
